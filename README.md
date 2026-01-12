@@ -1,8 +1,8 @@
-### VirtualApp
+## VirtualApp
 专注用 Xposed 实现游戏、电商等应用 xposed 插件
 1、Xposed VA  VirtualApp
 
-韩国游戏过盾
+## 韩国游戏过盾
 # 1、永恒之塔2 
     a、永恒2 默认带有dex 保护、逆向前请优先移除dex 保护
     b、游戏启动的时候开启Guard 保护、我们启动的时候移除Guard 即可
